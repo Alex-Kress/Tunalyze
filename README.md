@@ -1,6 +1,6 @@
 # Tunalyze
 
-*Tunalyze is an app that allows a user to input song lyrics to determine what song they came from and who the artist is.  The user can then also search by artist name to determine the genre of the artist.  Additionally, the apps stores the user's searchs in a library that allows the user to return to the app later and see what they have been listening to recently, to help them determine what they want to listen to at that particular moment, on YouTube or other music sites and apps.  The app is mainly intended for users who prefer the free version of Youtube as their music app of choice.
+*Tunalyze is an app that allows a user to input song lyrics to determine what song they came from and who the artist is.  The user can then also search by artist name to determine the genre of the artist.  Additionally, the apps stores the user's searchs in a library that allows the user to return to the app later and see what they have been listening to recently, to help them determine what they want to listen to at that particular moment, on YouTube or other music sites and apps.  The app is mainly intended for users who prefer the free version of Youtube as their music app of choice.*
 
 
 ## Technologies Used
